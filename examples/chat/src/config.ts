@@ -13,7 +13,7 @@ export const Config: Configuration = {
     INWORLD_CHARACTER: process.env.REACT_APP_INWORLD_CHARACTER || 'workspaces/bbyuni/characters/babyuniverse',
     INWORLD_SCENE: process.env.REACT_APP_INWORLD_SCENE || 'workspaces/bbyuni/characters/babyuniverse',
   MODEL_URI:
-    'https://storage.googleapis.com/assets-inworld-ai/models/innequin/v2/models/body/innequin.glb', // ./assets/innequin.glb
+    'https://storage.googleapis.com/assets-inworld-ai/models/innequin/v2/models/body/innequin.glb', // ./assets/innequin.glb /
   RPM_AVATAR: process.env.REACT_APP_RPM_AVATAR,
   DRACO_COMPRESSION_URI:
     'https://storage.googleapis.com/assets-inworld-ai/models/innequin/v2/draco-gltf/',
